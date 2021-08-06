@@ -1,0 +1,24 @@
+.status {
+  border: 1px solid black;
+  width: 32%;
+  height: 100vh;
+  position: relative;
+}
+
+.books {
+  position: absolute;
+  border: 1px solid black;
+  width: 332px;
+  height: 500px;
+  left: 50%;
+  top: 55%;
+  transform: translate(-50%, -50%);
+}
+
+#book {
+  margin-top: 10px;
+  margin: auto;
+  border: 1px solid red;
+  width: 280px;
+  height: 70px;
+}
